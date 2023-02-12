@@ -1,2 +1,2 @@
 #!/bin/bash
-ln /bin/las __ls__
+ln -s /bin/las __ls__
