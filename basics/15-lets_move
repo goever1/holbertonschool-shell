@@ -1,2 +1,2 @@
 #!/bin/bash
-mv grep /tmp/u
+mv --target-upercaseletter /tmp/u
