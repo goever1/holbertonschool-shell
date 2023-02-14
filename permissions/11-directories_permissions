@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d777 /permissions
+chmod 777 /permissions// 
