@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt | tr ' ' '\n'
+fmt | tr ' ' '\n' | tr -v '%2'
